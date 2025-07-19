@@ -1,0 +1,2 @@
+;
+export { lexicalConfig } from './config';

@@ -1,0 +1,8 @@
+# Arquivos disponíveis em /public/data/
+# Este arquivo pode ser usado para listar os arquivos disponíveis
+# Linhas começando com # são comentários e serão ignoradas
+# Um arquivo por linha
+
+LO.md
+700EXP.md
+PROEXIS.md

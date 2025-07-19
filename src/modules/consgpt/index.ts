@@ -1,0 +1,2 @@
+;
+export { consGptConfig } from './config';

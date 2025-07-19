@@ -1,0 +1,2 @@
+;
+export { consLmConfig } from './config';

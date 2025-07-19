@@ -1,0 +1,2 @@
+;
+export { bmancConfig } from './config';
